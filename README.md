@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @akshay0319
+- 👀 I’m interested in devlopment and design
+- 🌱 I’m currently learning computer application
